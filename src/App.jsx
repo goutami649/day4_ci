@@ -129,7 +129,7 @@ function App() {
   return (
     <div style={styles.app}>
       <div style={styles.container}>
-        <div style={styles.badge}>CI/CD DEMO</div>
+        <div style={styles.badge}>CI/CD DEMO_Deployment</div>
 
         <h1 style={styles.title}>REACT CI and CD PIPELINE</h1>
 
