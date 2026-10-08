@@ -131,7 +131,7 @@ function App() {
       <div style={styles.container}>
         <div style={styles.badge}>CI/CD DEMO</div>
 
-        <h1 style={styles.title}>React CI Pipeline</h1>
+        <h1 style={styles.title}>REACT CI and CD PIPELINE</h1>
 
         <p style={styles.description}>
           This is a simple React application created to test and
